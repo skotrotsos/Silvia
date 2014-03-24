@@ -1,0 +1,8 @@
+git clone
+
+git add .   (bestand toevoegen of bestandsnaam .extensie)
+
+git commit -am "test"
+
+git push
+git pull
